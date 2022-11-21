@@ -58,3 +58,4 @@ Played in the varsity men's college golf team under the responsibility of holdin
         <td>Software Innovation</td>
         <td>Biostatistics</td>
         <td>Calculus 1</td>
+</table>
